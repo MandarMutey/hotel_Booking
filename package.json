@@ -1,0 +1,8 @@
+{
+  "name": "hotel-room-booking",
+  "version": "1.0.0",
+  "description": "Hotel Room Booking System - Express + SQLite + vanilla JS",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "dependencies": { "better-sqlite3": "^11.3.0", "express": "^4.19.2" }
+}
